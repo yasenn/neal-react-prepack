@@ -1,9 +1,12 @@
+[![structor compatible](https://img.shields.io/badge/structor%20compatible-true-0077dd.svg?style=flat)](http://helmetrex.com)
+
 ### Description
 
 Project with ```neat-react``` components: [https://github.com/dennybritz/neal-react](https://github.com/dennybritz/neal-react)
 
 ```neal-react``` is a collection of reactjs components to quickly build landing pages. I found that using hosted services like Launchrock doesn't give me enough flexibility, but frameworks like Bootstrap are too low-level and lead to lots of repetitive code. I wanted something in between these two extremees.
 
+<img src="https://github.com/ipselon/neal-react-prepack/blob/master/screenshot.png" style="width: 100%"></img>
 <br/>
 
 ### Technologies and libraries
