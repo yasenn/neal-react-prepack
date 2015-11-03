@@ -1,0 +1,27 @@
+[
+  {
+    "variantName": "default empty",
+    "type": "Team",
+    "props": {
+      "data-umyid": "115"
+    },
+    "children": [
+      {
+        "type": "TeamMember",
+        "props": {
+          "data-umyid": "116"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "span",
+            "props": {
+              "data-umyid": "117"
+            },
+            "text": "Text"
+          }
+        ]
+      }
+    ]
+  }
+]

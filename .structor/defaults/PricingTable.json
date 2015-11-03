@@ -1,0 +1,125 @@
+[
+  {
+    "variantName": "default",
+    "type": "PricingTable",
+    "props": {
+      "data-umyid": "81"
+    },
+    "children": [
+      {
+        "variantName": "default",
+        "type": "PricingPlan",
+        "props": {
+          "name": "Personal",
+          "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+          "price": "$99",
+          "features": {
+            "Describe pricing plans as JSON": true,
+            "Features can be activate/inactive": true,
+            "Works on mobile": true,
+            "Custom callbacks": true,
+            "Extrea Feature 1": false,
+            "Extrea Feature 2": false
+          },
+          "data-umyid": "85"
+        }
+      },
+      {
+        "variantName": "default",
+        "type": "PricingPlan",
+        "props": {
+          "name": "Personal",
+          "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+          "price": "$99",
+          "features": {
+            "Describe pricing plans as JSON": true,
+            "Features can be activate/inactive": true,
+            "Works on mobile": true,
+            "Custom callbacks": true,
+            "Extrea Feature 1": false,
+            "Extrea Feature 2": false
+          },
+          "data-umyid": "86"
+        }
+      },
+      {
+        "variantName": "default",
+        "type": "PricingPlan",
+        "props": {
+          "name": "Personal",
+          "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+          "price": "$99",
+          "features": {
+            "Describe pricing plans as JSON": true,
+            "Features can be activate/inactive": true,
+            "Works on mobile": true,
+            "Custom callbacks": true,
+            "Extrea Feature 1": false,
+            "Extrea Feature 2": false
+          },
+          "data-umyid": "87"
+        }
+      }
+    ]
+  },
+  {
+    "variantName": "with price plans wrappers",
+    "type": "PricingTable",
+    "props": {
+      "data-umyid": "74"
+    },
+    "children": [
+      {
+        "type": "PricingPlanWrapper",
+        "props": {
+          "name": "Personal",
+          "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+          "price": "$99",
+          "features": {
+            "Describe pricing plans as JSON": true,
+            "Features can be activate/inactive": true,
+            "Works on mobile": true,
+            "Custom callbacks": true,
+            "Extrea Feature 1": false,
+            "Extrea Feature 2": false
+          },
+          "data-umyid": "78"
+        }
+      },
+      {
+        "type": "PricingPlanWrapper",
+        "props": {
+          "name": "Startup",
+          "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+          "price": "$499",
+          "features": {
+            "Describe pricing plans as JSON": true,
+            "Features can be activate/inactive": true,
+            "Works on mobile": true,
+            "Custom callbacks": true,
+            "Extrea Feature 1": true,
+            "Extrea Feature 2": false
+          },
+          "data-umyid": "79"
+        }
+      },
+      {
+        "type": "PricingPlanWrapper",
+        "props": {
+          "name": "Enterprise",
+          "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+          "price": "$999",
+          "features": {
+            "Describe pricing plans as JSON": true,
+            "Features can be activate/inactive": true,
+            "Works on mobile": true,
+            "Custom callbacks": true,
+            "Extrea Feature 1": true,
+            "Extrea Feature 2": true
+          },
+          "data-umyid": "80"
+        }
+      }
+    ]
+  }
+]

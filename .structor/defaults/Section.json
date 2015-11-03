@@ -1,0 +1,149 @@
+[
+  {
+    "variantName": "empty section",
+    "type": "Section",
+    "props": {
+      "data-umyid": "36",
+      "className": "nopad-bottom"
+    },
+    "children": []
+  },
+  {
+    "variantName": "subhero",
+    "type": "Section",
+    "props": {
+      "data-umyid": "32",
+      "className": "subhero"
+    },
+    "children": [
+      {
+        "type": "ImageList",
+        "props": {
+          "data-umyid": "33",
+          "centered": true
+        },
+        "children": [
+          {
+            "type": "ImageListItemCnnLogo",
+            "props": {
+              "data-umyid": "35"
+            }
+          },
+          {
+            "type": "ImageListItemForbesLogo",
+            "props": {
+              "data-umyid": "36"
+            }
+          },
+          {
+            "type": "ImageListItemThevergeLogo",
+            "props": {
+              "data-umyid": "37"
+            }
+          },
+          {
+            "type": "ImageListItemTechcrunchLogo",
+            "props": {
+              "data-umyid": "38"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "variantName": "with JSX code",
+    "type": "Section",
+    "props": {
+      "data-umyid": "30",
+      "className": "nopad-bottom"
+    },
+    "children": [
+      {
+        "type": "CodeJSX",
+        "props": {
+          "data-umyid": "34"
+        }
+      }
+    ]
+  },
+  {
+    "variantName": "with heading",
+    "type": "Section",
+    "props": {
+      "data-umyid": "73",
+      "className": "gray",
+      "heading": "Inline and Modal Signup components"
+    },
+    "children": []
+  },
+  {
+    "variantName": "with signup",
+    "type": "Section",
+    "props": {
+      "data-umyid": "65",
+      "className": "gray",
+      "heading": "Inline and Modal Signup components"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "p",
+        "props": {
+          "data-umyid": "68"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "Use these components to capture user data, display a payment dialog and/or and send them to your own backend for handling. Of course, you could also just use a Typeform to collect user emails.",
+            "props": {
+              "data-umyid": "69"
+            }
+          }
+        ]
+      },
+      {
+        "type": "SignupInlineWrapper",
+        "props": {
+          "data-umyid": "70"
+        }
+      },
+      {
+        "type": "SignupModalWrapper",
+        "props": {
+          "modalId": "signup-modal",
+          "data-umyid": "71"
+        }
+      },
+      {
+        "variantName": "Unsaved variant",
+        "type": "p",
+        "props": {
+          "data-umyid": "72"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "a",
+            "props": {
+              "data-toggle": "modal",
+              "data-target": "#signup-modal",
+              "href": "#",
+              "className": "btn btn-primary btn-ghost",
+              "data-umyid": "74"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Show Signup modal",
+                "props": {
+                  "data-umyid": "75"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

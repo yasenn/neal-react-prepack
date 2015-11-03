@@ -1,0 +1,20 @@
+[
+  {
+    "variantName": "default",
+    "type": "PricingPlan",
+    "props": {
+      "name": "Personal",
+      "description": "Describe your plans with easy-to-use pricing tables. Each plan provies callbacks to handle visitor clicks.",
+      "price": "$99",
+      "features": {
+        "Describe pricing plans as JSON": true,
+        "Features can be activate/inactive": true,
+        "Works on mobile": true,
+        "Custom callbacks": true,
+        "Extrea Feature 1": false,
+        "Extrea Feature 2": false
+      },
+      "data-umyid": "75"
+    }
+  }
+]

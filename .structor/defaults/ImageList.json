@@ -1,0 +1,36 @@
+[
+  {
+    "variantName": "list with logos",
+    "type": "ImageList",
+    "props": {
+      "data-umyid": "33",
+      "centered": true
+    },
+    "children": [
+      {
+        "type": "ImageListItemCnnLogo",
+        "props": {
+          "data-umyid": "35"
+        }
+      },
+      {
+        "type": "ImageListItemForbesLogo",
+        "props": {
+          "data-umyid": "36"
+        }
+      },
+      {
+        "type": "ImageListItemThevergeLogo",
+        "props": {
+          "data-umyid": "37"
+        }
+      },
+      {
+        "type": "ImageListItemTechcrunchLogo",
+        "props": {
+          "data-umyid": "38"
+        }
+      }
+    ]
+  }
+]

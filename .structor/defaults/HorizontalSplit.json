@@ -1,0 +1,289 @@
+[
+  {
+    "variantName": "with 3 cells",
+    "type": "HorizontalSplit",
+    "props": {
+      "data-umyid": "38",
+      "padding": "md"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "div",
+        "props": {
+          "data-umyid": "39"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "41",
+              "className": "lead"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Batteries Included",
+                "props": {
+                  "data-umyid": "42"
+                }
+              }
+            ]
+          },
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "43"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Neal is based on  ",
+                "props": {
+                  "data-umyid": "44"
+                }
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "#",
+                  "data-umyid": "45",
+                  "target": "_blank"
+                },
+                "children": [
+                  {
+                    "variantName": "Unsaved variant",
+                    "type": "span",
+                    "props": {
+                      "data-umyid": "47"
+                    },
+                    "text": "Bootstrap 4"
+                  }
+                ]
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "span",
+                "props": {
+                  "data-umyid": "48"
+                },
+                "text": " and ships with navbar, hero, footer, sections, horizontal split, pricing tables, customer quotes and other components you need for a landing page. No more repetetive coding! Oh, and it's easy to extend."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantName": "Unsaved variant",
+        "type": "div",
+        "props": {
+          "data-umyid": "49"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "50",
+              "className": "lead"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Third-Party Integrations",
+                "props": {
+                  "data-umyid": "51"
+                }
+              }
+            ]
+          },
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "52"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "External integrations like  ",
+                "props": {
+                  "data-umyid": "53"
+                }
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "#",
+                  "data-umyid": "54",
+                  "target": "_blank"
+                },
+                "children": [
+                  {
+                    "variantName": "Unsaved variant",
+                    "type": "span",
+                    "props": {
+                      "data-umyid": "55"
+                    },
+                    "text": " Google Analytics "
+                  }
+                ]
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "https://segment.com/",
+                  "data-umyid": "57",
+                  "target": "_blank"
+                },
+                "children": [
+                  {
+                    "variantName": "Unsaved variant",
+                    "type": "span",
+                    "props": {
+                      "data-umyid": "58"
+                    },
+                    "text": " Segment "
+                  }
+                ]
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "https://stripe.com/",
+                  "data-umyid": "59",
+                  "target": "_blank"
+                },
+                "children": [
+                  {
+                    "variantName": "Unsaved variant",
+                    "type": "span",
+                    "props": {
+                      "data-umyid": "60"
+                    },
+                    "text": " Stripe "
+                  }
+                ]
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "http://typeform.com",
+                  "data-umyid": "63",
+                  "target": "_blank"
+                },
+                "children": [
+                  {
+                    "variantName": "Unsaved variant",
+                    "type": "span",
+                    "props": {
+                      "data-umyid": "64"
+                    },
+                    "text": " Typeform "
+                  }
+                ]
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "span",
+                "props": {
+                  "data-umyid": "56"
+                },
+                "text": " are included. No more copying & pasting integration code, all you need is your API keys. We automatically track events when visitors navigate to different parts of your page."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantName": "Unsaved variant",
+        "type": "div",
+        "props": {
+          "data-umyid": "65"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "66",
+              "className": "lead"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Serverless Deployment",
+                "props": {
+                  "data-umyid": "67"
+                }
+              }
+            ]
+          },
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "68"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Because you are relying on react.js and third-party integration you don't need a server to host your landing page. Simply upload it to an Amazon S3 bucket, enable website hosting, and it's ready to go!  ",
+                "props": {
+                  "data-umyid": "69"
+                }
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "#",
+                  "data-umyid": "70",
+                  "target": "_blank"
+                },
+                "children": []
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "https://segment.com/",
+                  "data-umyid": "72",
+                  "target": "_blank"
+                },
+                "children": []
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "https://stripe.com/",
+                  "data-umyid": "74",
+                  "target": "_blank"
+                },
+                "children": []
+              },
+              {
+                "variantName": "Unsaved variant",
+                "type": "a",
+                "props": {
+                  "href": "http://typeform.com",
+                  "data-umyid": "76",
+                  "target": "_blank"
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

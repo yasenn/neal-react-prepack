@@ -1,0 +1,83 @@
+[
+  {
+    "variantName": "default",
+    "type": "CustomerQuotes",
+    "props": {
+      "data-umyid": "89"
+    },
+    "children": [
+      {
+        "type": "CustomerQuote",
+        "props": {
+          "data-umyid": "90"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "91"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Empty p",
+                "props": {
+                  "data-umyid": "92"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "CustomerQuote",
+        "props": {
+          "data-umyid": "93"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "94"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Empty p",
+                "props": {
+                  "data-umyid": "95"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "CustomerQuote",
+        "props": {
+          "data-umyid": "96"
+        },
+        "children": [
+          {
+            "variantName": "Unsaved variant",
+            "type": "p",
+            "props": {
+              "data-umyid": "97"
+            },
+            "children": [
+              {
+                "type": "span",
+                "text": "Empty p",
+                "props": {
+                  "data-umyid": "98"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

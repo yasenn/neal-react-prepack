@@ -1,0 +1,28 @@
+[
+  {
+    "variantName": "default no image",
+    "type": "CustomerQuote",
+    "props": {
+      "data-umyid": "90",
+      "name": "Paul Graham"
+    },
+    "children": [
+      {
+        "variantName": "Unsaved variant",
+        "type": "p",
+        "props": {
+          "data-umyid": "91"
+        },
+        "children": [
+          {
+            "type": "span",
+            "text": "What I tell founders is not to sweat the business model too much at first. The most important task at first is to build something people want. If you don't do that, it won't matter how clever your business model is.",
+            "props": {
+              "data-umyid": "92"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
