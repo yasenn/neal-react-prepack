@@ -56,5 +56,9 @@ module.exports = {
         Segment: require('neal-react').Segment,
         Stripe: require('neal-react').Stripe,
         TypeForm: require('neal-react').TypeForm
+    },
+    Test: {
+        TestComponent: require('../../src/client/components/Test/TestComponent.jsx'),
+        TestComponent2: require('../../src/client/components/Test/TestComponent2.jsx')
     }
 };

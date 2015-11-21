@@ -19,8 +19,7 @@ var PageForDesk = React.createClass({
         var style = {
             position: 'relative',
             padding: '2em',
-            minHeight: '500px',
-            overflow: 'none'
+            minHeight: '300px'
         };
         var overlayStyle = {
             position: 'fixed',
@@ -31,7 +30,7 @@ var PageForDesk = React.createClass({
             backgroundColor: 'rgba(0, 0, 0, 0.7)',
             padding: '2em',
             'zIndex': 9999,
-            overflow: 'auto'
+            'overflow': 'auto'
         };
         const closeButtonStyle = {
             position: 'absolute',

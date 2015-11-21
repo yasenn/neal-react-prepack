@@ -12,46 +12,37 @@
           "variantName": "Unsaved variant",
           "type": "App",
           "props": {
-            "googleAnalyticsKey": "UA-42490151-3",
-            "data-umyid": "2"
+            "googleAnalyticsKey": "UA-42490151-3"
           },
           "children": [
             {
               "variantName": "Unsaved variant",
               "type": "Page",
-              "props": {
-                "data-umyid": "3"
-              },
+              "props": {},
               "children": [
                 {
                   "variantName": "Unsaved variant",
                   "type": "Navbar",
                   "props": {
-                    "brand": "Sample Page",
-                    "data-umyid": "4"
+                    "brand": "Sample Page"
                   },
                   "children": [
                     {
                       "variantName": "Unsaved variant",
                       "type": "NavItem",
-                      "props": {
-                        "data-umyid": "5"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "type": "Link",
                           "props": {
                             "className": "nav-link",
-                            "to": "home",
-                            "data-umyid": "6"
+                            "to": "home"
                           },
                           "children": [
                             {
                               "type": "span",
                               "text": "Home",
-                              "props": {
-                                "data-umyid": "7"
-                              }
+                              "props": {}
                             }
                           ]
                         }
@@ -61,31 +52,24 @@
                       "variantName": "Unsaved variant",
                       "type": "NavItem",
                       "props": {
-                        "dropdown": true,
-                        "data-umyid": "8"
+                        "dropdown": true
                       },
                       "children": [
                         {
                           "type": "DropdownToggle",
-                          "props": {
-                            "data-umyid": "9"
-                          },
+                          "props": {},
                           "children": [
                             {
                               "variantName": "Unsaved variant",
                               "type": "span",
-                              "props": {
-                                "data-umyid": "10"
-                              },
+                              "props": {},
                               "text": "GitHub"
                             }
                           ]
                         },
                         {
                           "type": "DropdownMenu",
-                          "props": {
-                            "data-umyid": "11"
-                          },
+                          "props": {},
                           "children": [
                             {
                               "variantName": "Unsaved variant",
@@ -93,16 +77,13 @@
                               "props": {
                                 "href": "https://github.com/dennybritz/neal-sample",
                                 "className": "dropdown-item",
-                                "target": "_blank",
-                                "data-umyid": "12"
+                                "target": "_blank"
                               },
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Sample page",
-                                  "props": {
-                                    "data-umyid": "13"
-                                  }
+                                  "props": {}
                                 }
                               ]
                             },
@@ -112,16 +93,13 @@
                               "props": {
                                 "href": "https://github.com/dennybritz/neal-react",
                                 "className": "dropdown-item",
-                                "target": "_blank",
-                                "data-umyid": "14"
+                                "target": "_blank"
                               },
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Neal React",
-                                  "props": {
-                                    "data-umyid": "15"
-                                  }
+                                  "props": {}
                                 }
                               ]
                             }
@@ -135,23 +113,19 @@
                   "variantName": "Unsaved variant",
                   "type": "HeroWithImage",
                   "props": {
-                    "className": "text-center",
-                    "data-umyid": "16"
+                    "className": "text-center"
                   },
                   "children": [
                     {
                       "variantName": "Unsaved variant",
                       "type": "h1",
-                      "props": {
-                        "data-umyid": "17"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "type": "span",
                           "text": "Declarative Landing Pages for React.js",
                           "props": {
-                            "className": "display-1",
-                            "data-umyid": "18"
+                            "className": "display-1"
                           }
                         }
                       ]
@@ -160,25 +134,20 @@
                       "variantName": "Unsaved variant",
                       "type": "p",
                       "props": {
-                        "className": "lead",
-                        "data-umyid": "19"
+                        "className": "lead"
                       },
                       "children": [
                         {
                           "type": "span",
                           "text": "Build a beautiful landing page in less than an hour. No more redundant code. Easily extensible.",
-                          "props": {
-                            "data-umyid": "20"
-                          }
+                          "props": {}
                         }
                       ]
                     },
                     {
                       "variantName": "Unsaved variant",
                       "type": "p",
-                      "props": {
-                        "data-umyid": "21"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "variantName": "Unsaved variant",
@@ -186,16 +155,13 @@
                           "props": {
                             "href": "https://github.com/dennybritz/neal-react",
                             "target": "_blank",
-                            "className": "btn btn-white",
-                            "data-umyid": "22"
+                            "className": "btn btn-white"
                           },
                           "children": [
                             {
                               "type": "span",
                               "text": "Get it on GitHub",
-                              "props": {
-                                "data-umyid": "23"
-                              }
+                              "props": {}
                             }
                           ]
                         }
@@ -206,40 +172,30 @@
                 {
                   "type": "Section",
                   "props": {
-                    "className": "subhero",
-                    "data-umyid": "24"
+                    "className": "subhero"
                   },
                   "children": [
                     {
                       "type": "ImageList",
                       "props": {
-                        "centered": true,
-                        "data-umyid": "25"
+                        "centered": true
                       },
                       "children": [
                         {
                           "type": "ImageListItemCnnLogo",
-                          "props": {
-                            "data-umyid": "26"
-                          }
+                          "props": {}
                         },
                         {
                           "type": "ImageListItemForbesLogo",
-                          "props": {
-                            "data-umyid": "27"
-                          }
+                          "props": {}
                         },
                         {
                           "type": "ImageListItemThevergeLogo",
-                          "props": {
-                            "data-umyid": "28"
-                          }
+                          "props": {}
                         },
                         {
                           "type": "ImageListItemTechcrunchLogo",
-                          "props": {
-                            "data-umyid": "29"
-                          }
+                          "props": {}
                         }
                       ]
                     }
@@ -249,85 +205,67 @@
                   "variantName": "subhero",
                   "type": "Section",
                   "props": {
-                    "className": "nopad-bottom",
-                    "data-umyid": "30"
+                    "className": "nopad-bottom"
                   },
                   "children": [
                     {
                       "type": "CodeJSX",
-                      "props": {
-                        "data-umyid": "31"
-                      }
+                      "props": {}
                     }
                   ]
                 },
                 {
                   "variantName": "with JSX code",
                   "type": "Section",
-                  "props": {
-                    "data-umyid": "32"
-                  },
+                  "props": {},
                   "children": [
                     {
                       "type": "HorizontalSplit",
                       "props": {
-                        "padding": "md",
-                        "data-umyid": "33"
+                        "padding": "md"
                       },
                       "children": [
                         {
                           "variantName": "Unsaved variant",
                           "type": "div",
-                          "props": {
-                            "data-umyid": "34"
-                          },
+                          "props": {},
                           "children": [
                             {
                               "variantName": "Unsaved variant",
                               "type": "p",
                               "props": {
-                                "className": "lead",
-                                "data-umyid": "35"
+                                "className": "lead"
                               },
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Batteries Included",
-                                  "props": {
-                                    "data-umyid": "36"
-                                  }
+                                  "props": {}
                                 }
                               ]
                             },
                             {
                               "variantName": "Unsaved variant",
                               "type": "p",
-                              "props": {
-                                "data-umyid": "37"
-                              },
+                              "props": {},
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Neal is based on  ",
-                                  "props": {
-                                    "data-umyid": "38"
-                                  }
+                                  "props": {}
                                 },
                                 {
                                   "variantName": "Unsaved variant",
                                   "type": "a",
                                   "props": {
                                     "href": "#",
-                                    "target": "_blank",
-                                    "data-umyid": "39"
+                                    "target": "_blank"
                                   },
                                   "children": [
                                     {
                                       "variantName": "Unsaved variant",
                                       "type": "span",
-                                      "props": {
-                                        "data-umyid": "40"
-                                      },
+                                      "props": {},
                                       "text": "Bootstrap 4"
                                     }
                                   ]
@@ -335,9 +273,7 @@
                                 {
                                   "variantName": "Unsaved variant",
                                   "type": "span",
-                                  "props": {
-                                    "data-umyid": "41"
-                                  },
+                                  "props": {},
                                   "text": " and ships with navbar, hero, footer, sections, horizontal split, pricing tables, customer quotes and other components you need for a landing page. No more repetetive coding! Oh, and it's easy to extend."
                                 }
                               ]
@@ -347,56 +283,44 @@
                         {
                           "variantName": "Unsaved variant",
                           "type": "div",
-                          "props": {
-                            "data-umyid": "42"
-                          },
+                          "props": {},
                           "children": [
                             {
                               "variantName": "Unsaved variant",
                               "type": "p",
                               "props": {
-                                "className": "lead",
-                                "data-umyid": "43"
+                                "className": "lead"
                               },
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Third-Party Integrations",
-                                  "props": {
-                                    "data-umyid": "44"
-                                  }
+                                  "props": {}
                                 }
                               ]
                             },
                             {
                               "variantName": "Unsaved variant",
                               "type": "p",
-                              "props": {
-                                "data-umyid": "45"
-                              },
+                              "props": {},
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "External integrations like  ",
-                                  "props": {
-                                    "data-umyid": "46"
-                                  }
+                                  "props": {}
                                 },
                                 {
                                   "variantName": "Unsaved variant",
                                   "type": "a",
                                   "props": {
                                     "href": "#",
-                                    "target": "_blank",
-                                    "data-umyid": "47"
+                                    "target": "_blank"
                                   },
                                   "children": [
                                     {
                                       "variantName": "Unsaved variant",
                                       "type": "span",
-                                      "props": {
-                                        "data-umyid": "48"
-                                      },
+                                      "props": {},
                                       "text": " Google Analytics "
                                     }
                                   ]
@@ -406,16 +330,13 @@
                                   "type": "a",
                                   "props": {
                                     "href": "https://segment.com/",
-                                    "target": "_blank",
-                                    "data-umyid": "49"
+                                    "target": "_blank"
                                   },
                                   "children": [
                                     {
                                       "variantName": "Unsaved variant",
                                       "type": "span",
-                                      "props": {
-                                        "data-umyid": "50"
-                                      },
+                                      "props": {},
                                       "text": " Segment "
                                     }
                                   ]
@@ -425,16 +346,13 @@
                                   "type": "a",
                                   "props": {
                                     "href": "https://stripe.com/",
-                                    "target": "_blank",
-                                    "data-umyid": "51"
+                                    "target": "_blank"
                                   },
                                   "children": [
                                     {
                                       "variantName": "Unsaved variant",
                                       "type": "span",
-                                      "props": {
-                                        "data-umyid": "52"
-                                      },
+                                      "props": {},
                                       "text": " Stripe "
                                     }
                                   ]
@@ -444,16 +362,13 @@
                                   "type": "a",
                                   "props": {
                                     "href": "http://typeform.com",
-                                    "target": "_blank",
-                                    "data-umyid": "53"
+                                    "target": "_blank"
                                   },
                                   "children": [
                                     {
                                       "variantName": "Unsaved variant",
                                       "type": "span",
-                                      "props": {
-                                        "data-umyid": "54"
-                                      },
+                                      "props": {},
                                       "text": " Typeform "
                                     }
                                   ]
@@ -461,9 +376,7 @@
                                 {
                                   "variantName": "Unsaved variant",
                                   "type": "span",
-                                  "props": {
-                                    "data-umyid": "55"
-                                  },
+                                  "props": {},
                                   "text": " are included. No more copying & pasting integration code, all you need is your API keys. We automatically track events when visitors navigate to different parts of your page."
                                 }
                               ]
@@ -473,48 +386,38 @@
                         {
                           "variantName": "Unsaved variant",
                           "type": "div",
-                          "props": {
-                            "data-umyid": "56"
-                          },
+                          "props": {},
                           "children": [
                             {
                               "variantName": "Unsaved variant",
                               "type": "p",
                               "props": {
-                                "className": "lead",
-                                "data-umyid": "57"
+                                "className": "lead"
                               },
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Serverless Deployment",
-                                  "props": {
-                                    "data-umyid": "58"
-                                  }
+                                  "props": {}
                                 }
                               ]
                             },
                             {
                               "variantName": "Unsaved variant",
                               "type": "p",
-                              "props": {
-                                "data-umyid": "59"
-                              },
+                              "props": {},
                               "children": [
                                 {
                                   "type": "span",
                                   "text": "Because you are relying on react.js and third-party integration you don't need a server to host your landing page. Simply upload it to an Amazon S3 bucket, enable website hosting, and it's ready to go!  ",
-                                  "props": {
-                                    "data-umyid": "60"
-                                  }
+                                  "props": {}
                                 },
                                 {
                                   "variantName": "Unsaved variant",
                                   "type": "a",
                                   "props": {
                                     "href": "#",
-                                    "target": "_blank",
-                                    "data-umyid": "61"
+                                    "target": "_blank"
                                   },
                                   "children": []
                                 },
@@ -523,8 +426,7 @@
                                   "type": "a",
                                   "props": {
                                     "href": "https://segment.com/",
-                                    "target": "_blank",
-                                    "data-umyid": "62"
+                                    "target": "_blank"
                                   },
                                   "children": []
                                 },
@@ -533,8 +435,7 @@
                                   "type": "a",
                                   "props": {
                                     "href": "https://stripe.com/",
-                                    "target": "_blank",
-                                    "data-umyid": "63"
+                                    "target": "_blank"
                                   },
                                   "children": []
                                 },
@@ -543,8 +444,7 @@
                                   "type": "a",
                                   "props": {
                                     "href": "http://typeform.com",
-                                    "target": "_blank",
-                                    "data-umyid": "64"
+                                    "target": "_blank"
                                   },
                                   "children": []
                                 }
@@ -561,45 +461,35 @@
                   "type": "Section",
                   "props": {
                     "className": "gray",
-                    "heading": "Inline and Modal Signup components",
-                    "data-umyid": "65"
+                    "heading": "Inline and Modal Signup components"
                   },
                   "children": [
                     {
                       "variantName": "Unsaved variant",
                       "type": "p",
-                      "props": {
-                        "data-umyid": "66"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "type": "span",
                           "text": "Use these components to capture user data, display a payment dialog and/or and send them to your own backend for handling. Of course, you could also just use a Typeform to collect user emails.",
-                          "props": {
-                            "data-umyid": "67"
-                          }
+                          "props": {}
                         }
                       ]
                     },
                     {
                       "type": "SignupInlineWrapper",
-                      "props": {
-                        "data-umyid": "68"
-                      }
+                      "props": {}
                     },
                     {
                       "type": "SignupModalWrapper",
                       "props": {
-                        "modalId": "signup-modal",
-                        "data-umyid": "69"
+                        "modalId": "signup-modal"
                       }
                     },
                     {
                       "variantName": "Unsaved variant",
                       "type": "p",
-                      "props": {
-                        "data-umyid": "70"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "variantName": "Unsaved variant",
@@ -608,16 +498,13 @@
                             "data-toggle": "modal",
                             "data-target": "#signup-modal",
                             "href": "#",
-                            "className": "btn btn-primary btn-ghost",
-                            "data-umyid": "71"
+                            "className": "btn btn-primary btn-ghost"
                           },
                           "children": [
                             {
                               "type": "span",
                               "text": "Show Signup modal",
-                              "props": {
-                                "data-umyid": "72"
-                              }
+                              "props": {}
                             }
                           ]
                         }
@@ -629,15 +516,12 @@
                   "variantName": "empty section",
                   "type": "Section",
                   "props": {
-                    "className": "nopad-bottom",
-                    "data-umyid": "73"
+                    "className": "nopad-bottom"
                   },
                   "children": [
                     {
                       "type": "PricingTable",
-                      "props": {
-                        "data-umyid": "74"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "type": "PricingPlanWrapper",
@@ -652,8 +536,7 @@
                               "Custom callbacks": true,
                               "Extrea Feature 1": false,
                               "Extrea Feature 2": false
-                            },
-                            "data-umyid": "75"
+                            }
                           }
                         },
                         {
@@ -669,8 +552,7 @@
                               "Custom callbacks": true,
                               "Extrea Feature 1": true,
                               "Extrea Feature 2": false
-                            },
-                            "data-umyid": "76"
+                            }
                           }
                         },
                         {
@@ -686,8 +568,7 @@
                               "Custom callbacks": true,
                               "Extrea Feature 1": true,
                               "Extrea Feature 2": true
-                            },
-                            "data-umyid": "77"
+                            }
                           }
                         }
                       ]
@@ -698,37 +579,30 @@
                   "variantName": "empty section",
                   "type": "Section",
                   "props": {
-                    "className": "nopad-bottom",
-                    "data-umyid": "78"
+                    "className": "nopad-bottom"
                   },
                   "children": [
                     {
                       "type": "CustomerQuotes",
-                      "props": {
-                        "data-umyid": "79"
-                      },
+                      "props": {},
                       "children": [
                         {
                           "type": "CustomerQuotePaulGraham",
                           "props": {
-                            "name": "Paul Graham",
-                            "data-umyid": "80"
+                            "name": "Paul Graham"
                           },
                           "children": []
                         },
                         {
                           "type": "CustomerQuoteElonMusk",
                           "props": {
-                            "name": "Elon Musk",
-                            "data-umyid": "81"
+                            "name": "Elon Musk"
                           },
                           "children": []
                         },
                         {
                           "type": "CustomerQuoteReidHoffman",
-                          "props": {
-                            "data-umyid": "82"
-                          }
+                          "props": {}
                         }
                       ]
                     }
@@ -740,8 +614,7 @@
                     "brandName": "Sample Page",
                     "facebookUrl": "http://www.facebook.com",
                     "twitterUrl": "http://www.twitter.com/dennybritz",
-                    "githubUrl": "https://github.com/dennybritz/neal-react",
-                    "data-umyid": "83"
+                    "githubUrl": "https://github.com/dennybritz/neal-react"
                   }
                 }
               ]
@@ -749,9 +622,7 @@
           ]
         }
       ],
-      "props": {
-        "data-umyid": "1"
-      },
+      "props": {},
       "pageTitle": "HomePage",
       "pageProps": [],
       "pageScript": ""
