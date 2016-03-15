@@ -1,7 +1,7 @@
 {
   "name": "structor-starter-prepack",
   "version": "0.0.0",
-  "description": "Sample project for using in Sctructor",
+  "description": "Sample project for using in Structor",
   "main": "main.js",
   "scripts": {
     "test": "test",
